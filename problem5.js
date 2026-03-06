@@ -1,3 +1,5 @@
+
+
 const city = ['dhaka', 'tangail','rajsahi','dinajpur','tangail', 'dhaka','dinajpur'];
 
 function noDuplicate(arr) {
